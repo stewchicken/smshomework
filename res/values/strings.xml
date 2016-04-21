@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">zbc</string>
+	<string name="number">Please enter number</string>
+	<string name="content">Please enter content</string>
+	<string name="sendbutton">Send</string>
+	<string name="send">SendSMS</string>
+	<string name="backbutton">Back</string>
+	<string name="success">Successfully send out</string>
+	<string name="update">Update</string>
+	<string name="title">FileName</string>
+	<string name="body">Content</string>
+</resources>
